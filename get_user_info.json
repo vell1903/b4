@@ -1,0 +1,10 @@
+{
+    "email":{
+        "value":"email@email.com", 
+        "status":true
+    },
+    "phone":{
+        "value":"79168537720",
+        "status":true
+    }
+}
